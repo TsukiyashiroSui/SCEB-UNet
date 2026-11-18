@@ -1,0 +1,10 @@
+torch==2.11.0
+torchvision==0.26.0
+numpy==2.2.5
+scipy==1.15.3
+opencv-python==4.13.0.92
+scikit-learn==1.7.1
+ml-collections==1.1.0
+tensorboardX==2.6.5
+tqdm==4.67.3
+Pillow==11.1.0
